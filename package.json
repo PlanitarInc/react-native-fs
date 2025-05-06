@@ -1,7 +1,7 @@
 {
-  "name": "react-native-fs",
+  "name": "@planitar/react-native-fs",
   "version": "2.20.1",
-  "description": "Native filesystem access for react-native",
+  "description": "Native filesystem access for react-native, fork of github.com:itinance/react-native-fs.git as it is no longer maintained.",
   "main": "FS.common.js",
   "typings": "index.d.ts",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:itinance/react-native-fs.git"
+    "url": "git@github.com:PlanitarInc/react-native-fs.git"
   },
   "keywords": [
     "react-component",
@@ -21,7 +21,8 @@
     "filesystem",
     "download",
     "upload",
-    "file-transfer"
+    "file-transfer",
+    "itinance fork"
   ],
   "author": "Johannes Lumpe <johannes@lum.pe> (https://github.com/johanneslumpe)",
   "license": "MIT",
